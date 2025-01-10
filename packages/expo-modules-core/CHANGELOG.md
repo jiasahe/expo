@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- [Android] Added support for Jetpack Compose views. ([#33759](https://github.com/expo/expo/pull/33759) by [@aleqsio](https://github.com/aleqsio))
+
 ### 🐛 Bug fixes
 
 - Ensure `uuid.v4`and`uuid.v5` is available on old react native architecture. ([#33621](https://github.com/expo/expo/pull/33621) by [@andrejpavlovic](https://github.com/andrejpavlovic))
